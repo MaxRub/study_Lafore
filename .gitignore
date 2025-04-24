@@ -31,6 +31,3 @@
 *.out
 *.app
 
-# Projecs
-*.pro
-*.gitignore
